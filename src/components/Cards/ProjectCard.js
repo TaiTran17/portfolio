@@ -92,9 +92,9 @@ const Description = styled.div`
   max-width: 100%;
 `;
 
-const Projectcard = ({ project }) => {
+const Projectcard = ({ project, setOpenModal }) => {
   return (
-    <Card>
+    <Card onClick={() => setOpenModal({ state: true, project: project })}>
       <Image src={project?.image} />
       <Tags>
         {project?.tags?.map((tag, index) => (
