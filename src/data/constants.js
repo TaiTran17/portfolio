@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual person, always eager to take on new challenges in order to develop myself. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/rishavchanda",
   resume:
-    "https://drive.google.com/drive/u/0/folders/1RJTnvpOeaFCjbdlgYciiemYKoQfuN46v",
+    "https://drive.google.com/file/d/1lz-vcJZUz4chk5qvLs9FJh3p_290Y3SD/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/tài-trần-7b2357267/",
   facebook: "https://www.facebook.com/rishav.chanda.165/",
 };
